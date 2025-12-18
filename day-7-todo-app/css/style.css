@@ -1,0 +1,19 @@
+.light-mode {
+    background-color: #f5bbf3;
+    color: #000;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #fff;
+}
+
+.dark-mode .card {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
